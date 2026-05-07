@@ -1,4 +1,4 @@
-TravelGo ✈️🚌🚆🏨
+✈️TravelGo 
 
 A full-stack travel booking web application built with Flask and AWS that allows users to book buses, trains, flights, and hotels — with real-time booking confirmation via AWS SNS.
 
@@ -14,6 +14,7 @@ A full-stack travel booking web application built with Flask and AWS that allows
 - 📊 User dashboard to view all past bookings
 
 
+
 🛠️ Tech Stack
 
 | Layer     | Technology |
@@ -27,6 +28,7 @@ A full-stack travel booking web application built with Flask and AWS that allows
 | Notifications | AWS SNS |
 
 | Cloud         | AWS (EC2, DynamoDB, SNS) |
+
 
 
 📁 Project Structure
@@ -60,6 +62,7 @@ TravelGo-main/
         ├── payment.html        # Payment page
         
         └── ticket.html         # Booking confirmation ticket
+
 
 
 ⚙️ Setup & Installation
@@ -101,4 +104,4 @@ Visit `http://localhost:5000` in your browser.
 🙋‍♀️ Author
 
 Afrah R 
-B.Tech Computer Science and Business Systems  
+(B.Tech Computer Science and Business Systems)
